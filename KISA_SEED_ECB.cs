@@ -1,18 +1,6 @@
-﻿//====================================================================================================
-//The Free Edition of Java to C# Converter limits conversion output to 100 lines per file.
-
-//To subscribe to the Premium Edition, visit our website:
-//https://www.tangiblesoftwaresolutions.com/order/order-java-to-csharp.html
-//====================================================================================================
 
 using System;
 
-/// <summary>
-/// @file KISA_SEED_ECB.java
-/// @brief SEED CBC ��ȣ �˰����
-/// @author Copyright (c) 2013 by KISA
-/// @remarks http://seed.kisa.or.kr/
-/// </summary>
 
 
 public class KISA_SEED_ECB
